@@ -1,0 +1,129 @@
+
+body{
+    
+    background-color:rgb(187, 250, 236);
+}
+
+.forfloat{
+    border-radius:15px;
+}
+.header{
+    background-color: rgb(152, 176, 204);
+    font-style: bold;
+}
+.forfloat ul li {
+    list-style: none;
+}
+.forfloat ul li{
+    display: inline-block;
+}
+.forfloat ul li a {
+    margin-top:10px;
+    padding:10px;
+    padding-right:20px;
+    font-weight:400;
+    font-size:20px;
+    color:rgb(14, 13, 13);
+    text-align:center;
+    padding-left:10px;
+    
+}
+.forfloat li a:hover, .forfloat li a:active{
+    
+    font-size:25px;
+    background-color:rgb(117, 43, 43);
+    border-radius: 15px;
+    color:whitesmoke;
+    text-decoration: none;
+    padding-top:5px;
+    
+   
+}
+.responsive{
+    
+        width: 100%;
+        height: auto;
+      }
+
+
+
+.rowsmall{
+    
+    border-radius:50%;
+    
+}
+
+.dropdown-menu{
+    width:100%;
+    background-color: cadetblue;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.footerone, .footertwo, .footerthree{
+    background-color:#527a7a;
+    font-size:15px;
+    font-style:oblique;
+    user-select: none;
+    
+}
+.footerthree{
+    background-color:#527a7a;
+    font-size:15px;
+    padding-top: 2em;
+}
+
+h4{
+    font-style:none;
+}
+.footertwo ul li {
+    list-style:inside;
+}
+.footertwo a{
+    color:rgb(235, 230, 226);
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.footertwo li a:hover,.footertwo li a:hover{
+    text-decoration: none;
+    color:coral;
+}
+h1,h2{
+    text-align: center;
+   color:darkblue;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;            /* Footer height */
+  }
+.other{
+    
+    font-size:13px;
+    color:rgb(10, 10, 10);
+    text-align:center;
+    font-style:italic;
+}
+.other button{
+    margin:0px;
+    padding:0px;
+    font-size:10px;
+    height:15px;
+}
+.other a{
+    color:white;
+    text-decoration:none;
+}
+.return a{
+    font-size:2em;
+    text-decoration:none;
+}
+.return button {
+    font-size:20px;
+    margin:0px;
+    padding:0px;
+    font-size:10px;
+    height:30px;
+}

@@ -1,0 +1,165 @@
+
+body{
+    
+    background-color:rgb(187, 250, 236);
+}
+
+.forfloat{
+    border-radius:15px;
+}
+.header{
+    background-color: rgb(152, 176, 204);
+    font-style: bold;
+}
+.forfloat ul li {
+    list-style: none;
+}
+.forfloat ul li{
+    display: inline-block;
+}
+.forfloat ul li a {
+    margin-top:10px;
+    padding:10px;
+    padding-right:20px;
+    font-weight:400;
+    font-style: bold;
+    font-size:20px;
+    color:rgb(14, 13, 13);
+    text-align:center;
+    padding-left:10px;
+    
+}
+.forfloat li a:hover, .forfloat li a:active{
+    
+    font-size:25px;
+    background-color:rgb(117, 43, 43);
+    border-radius: 15px;
+    color:whitesmoke;
+    text-decoration: none;
+    padding-top:5px;
+    
+   
+}
+
+.profile{
+    height:470px;
+ border-radius:20px;
+ box-shadow:0px 15px 15px 0px grey;
+ background: url("2.jpg") center;
+ background-size: cover;
+}
+.card{
+   
+    color:black;
+    height:100%;
+}
+.row1{
+    height:40%;
+}
+.rowfor{
+    border-radius:30%;
+    background:url("abhi.JPG") center;
+    background-size: cover;
+}
+.name{
+    font-size:24px;
+  
+}
+.card, a {
+    color:rgb(245, 245, 250);
+}
+.location{
+    text-transform: uppercase;
+    font-size:16px;
+}
+.skill{
+    font-size:20px;
+
+}
+.row2{
+    text-align:center;
+}
+.buttons{
+    height:50px;
+}
+.card{
+    background: url("backg.png") center;
+    background-size: cover;
+    box-shadow:0px 15px 15px 0px grey;
+    overflow:hidden;
+}
+.last button{
+    padding-left:5px;
+    border:1px solid whitesmoke;
+}
+.rowsmall{
+    
+    border-radius:50%;
+    
+}
+
+.dropdown-menu{
+    width:100%;
+    background-color: cadetblue;
+    margin-left:10px;
+    margin-right:10px;
+    opacity: 80%;
+}
+.dropdown-menu a{
+    text-align :center;
+    font-size:25px;
+    color:black;
+    font-weight: 600;
+    
+}
+.dropdown-menu:hover,.dropdown-menu:active{
+    color:darkblue;
+}
+
+.image{
+    height:400px;
+    background:url("drake.jpg") center ;
+    background-size:cover;
+    box-shadow:0px 15px 15px 0px grey;
+}
+.quote{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+    font-style: italic;
+    color:rgb(80, 74, 74);
+    user-select: none;
+}
+.footerone, .footertwo, .footerthree{
+    background-color:#527a7a;
+    font-size:15px;
+    font-style:oblique;
+    user-select: none;
+    
+}
+.footerthree{
+    background-color:#527a7a;
+    font-size:15px;
+    padding-top: 2em;
+    text-align:center;
+}
+
+h4{
+    font-style:none;
+}
+.footertwo ul li {
+    list-style:inside;
+}
+.footertwo a{
+    color:rgb(235, 230, 226);
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.footertwo li a:hover,.footertwo li a:hover{
+    text-decoration: none;
+    color:coral;
+}
+.buttons a{
+    text-decoration: none;
+    color:white;
+}
