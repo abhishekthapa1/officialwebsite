@@ -93,12 +93,7 @@ h1,h2{
     text-align: center;
    color:darkblue;
 }
-.footer{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: auto;            /* Footer height */
-  }
+
 .other{
     
     font-size:13px;
