@@ -10,6 +10,7 @@ body{
 .header{
     background-color: #038C8C;
     font-style: bold;
+    height:70px;
 }
 .forfloat ul li {
     list-style: none;
