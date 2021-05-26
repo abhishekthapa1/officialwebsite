@@ -130,3 +130,8 @@ h1,h2{
     font-size:10px;
     height:30px;
 }
+.mainfooter{
+    position: absolute;
+    bottom:auto;
+    text-align:center;
+}
