@@ -164,3 +164,7 @@ h4{
     text-decoration: none;
     color:white;
 }
+.mainfooter{
+    position: absolute;
+    bottom:auto;
+}
